@@ -282,3 +282,11 @@ h5 {
 		margin-bottom: 50px;
 	}
 }
+
+footer {
+  text-align: center;
+  padding: 10px;
+  margin-top: 40px;
+  border-top: 1px solid #ccc;
+}
+
